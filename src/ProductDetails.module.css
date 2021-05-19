@@ -1,0 +1,33 @@
+.ProductData{
+    width: 50%;
+  }
+  
+  .ProductTitle{
+    font-size: 48px;
+    font-family: 600;
+    margin-top: 0;
+    margin-bottom: 16px;
+  
+  }
+  
+  .ProductDescription{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.8);
+    margin-top: 0;
+  }
+  
+  .ProductImage {
+    width: 100%;
+    max-width: 80px;
+  
+    border: 2px solid transparent;
+    border-radius: 8px;
+    margin-right: 12px;
+  
+    cursor: pointer;
+  }
+  
+  .SelectiveProductImage {
+    border: 2px solid teal;
+  }
+  
