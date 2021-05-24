@@ -1,5 +1,5 @@
 .ProductData{
-    width: 50%;
+    width: 100%;
   }
   
   .ProductTitle{
@@ -29,5 +29,18 @@
   
   .SelectiveProductImage {
     border: 2px solid teal;
+  }
+
+  .featureItem {
+    min-width: 80px;
+    background-color: gainsboro;
+    border-radius: 8px;
+    border: 0;
+    text-align: center;
+    margin-right: 10px;
+    cursor: pointer;
+    box-sizing: border-box;
+
+    padding: 12px 24px;
   }
   

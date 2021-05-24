@@ -1,9 +1,7 @@
 import React from 'react';
 import classes from './App.module.css';
-import ProductData from './ProductData';
 import ProductDetails from './ProductDetails'
 import ProductPreview from './ProductPreview';
-
 function App() {
 
   return (
@@ -23,8 +21,7 @@ function App() {
       <div>
         <ProductDetails/>
       </div>
-
-
+      
       </div>
     </div>
   );
