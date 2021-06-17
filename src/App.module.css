@@ -1,24 +1,23 @@
-body{
+body {
   font-family: sans-serif;
 }
 
-.Topbar{
-  background-color:green;
+.Topbar {
+  background-color: green;
   width: 100%;
   padding: 24px 48px 12px;
   text-align: center;
 
-  position:fixed;
+  position: fixed;
   top: 0;
   left: 0;
 }
 
-.Topbar > img{
+.Topbar > img {
   width: 100px;
-
 }
 
-.MainContainer{
+.MainContainer {
   padding: 4% 12%;
   margin-top: 32px;
   box-sizing: border-box;
@@ -26,13 +25,12 @@ body{
   width: 100%;
   display: flex;
   align-items: center;
-
 }
 
-.ProductPreview{
+.ProductPreview {
   width: 50%;
 }
 
-.ProductData{
+.ProductData {
   width: 50%;
 }
